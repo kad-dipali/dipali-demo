@@ -1,4 +1,4 @@
 # dipali-demo
 This is my first repository.
 <br>
-Author-Kad Dipali
+Author-Kad Dipali(dipali)
